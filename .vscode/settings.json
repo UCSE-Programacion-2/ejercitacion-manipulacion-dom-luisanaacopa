@@ -40,5 +40,6 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "explorer.confirmDelete": true,
-  "explorer.confirmDragAndDrop": true
+  "explorer.confirmDragAndDrop": true,
+  "livePreview.defaultPreviewPath": "/index.html"
 }
